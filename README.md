@@ -1,7 +1,7 @@
 # ring-queue
 
 #### 使用 Java 简单实现：下述功能
-阅读博客:1分钟实现“延迟消息”功能 <https://blog.csdn.net/jiangzhexi/article/details/62450277> 
+阅读博客:1分钟实现“延迟消息”功能 <https://www.w3cschool.cn/architectroad/architectroad-delay-message.html> 
 
 #### 已实现
 * 环形队列长度为60，间隔1秒执行一次step
